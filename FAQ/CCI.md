@@ -1,5 +1,5 @@
-# Como bater ponto?
+Como bater ponto?
 Portal RH
 
-# Como trocar notebook?
+Como trocar notebook?
 Clique aqui
