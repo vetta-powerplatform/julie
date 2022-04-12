@@ -11,3 +11,11 @@ This feature won't override keywords set in the [Microsoft 365 admin center](htt
 ## Can you search for files on-premises?
 
 Yes. You can search on-premises [SharePoint](http://sharepoint.com/) files if you have a hybrid deployment of SharePoint.
+
+## Can I search across federated organizations?
+
+No.
+
+## Where can I get info about Office 365 security, compliance, and privacy?
+
+Details can be found on the [Trust Center pages for Office 365](https://www.microsoft.com/TrustCenter/CloudServices/office365/default.aspx).
